@@ -1,0 +1,6 @@
+transformers==4.29.2
+accelerate==0.20.3
+peft==0.4.0
+python-docx==1.1.0
+bitsandbytes==0.39.0
+streamlit==1.31.1

@@ -1,0 +1,20 @@
+{
+    "token_classifier": {
+        "model_label": "TKN_CLS_Name",
+        "model_id": "/your/model/path",
+        "entity_mapping": {
+            "MED": "MED",
+            "DIAG": "DIAG",
+            "TREAT": "TREAT"
+        }
+    },
+    "llm": {
+        "model_label": "LLM_Name",
+        "model_id": "/your/model/path",
+        "entity_mapping": {
+            "Medikamente": "MED",
+            "Diagnose": "DIAG",
+            "Behandlung": "TREAT"
+        }
+    }
+}
