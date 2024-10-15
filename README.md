@@ -1,9 +1,14 @@
 # medicaApp
 The MEDICA app allows users to analyze multiple clinical documents by tagging named entities such as drugs, treatments, and diagnoses. It provides an aggregated overview of all documents, highlights detected entities, and enables users to remove incorrect tags and generate reports based on selected entities.
 
+### Aggregated view of extracted entities:
 <img src="static/medicaApp_1.png" alt="overview table" width="800" height="auto"><br>
-<img src="static/medicaApp_2.png" alt="detailed view" width="800" height="auto"><br>
+
+### Document view:
 <img src="static/medicaApp_3.png" alt="document view" width="800" height="auto"><br>
+
+### Detail view of selected entities:
+<img src="static/medicaApp_2.png" alt="detailed view" width="800" height="auto"><br>
 
 # Prerequisites
 <b>Install requirements</b><br>
