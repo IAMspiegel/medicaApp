@@ -1,0 +1,43 @@
+Entlassbrief
+ 
+[Patientenname]: Max Mustermann
+[Geburtsdatum]: 01.01.1980
+[Aufnahmedatum]: 01.05.2024
+[Entlassdatum]: 15.05.2024
+[Krankenversicherungsnummer]: 123456789
+[Hausarzt]: Dr. Anna Müller
+ 
+Diagnosen:
+1.   [Hauptdiagnose]: Appendizitis acuta
+2.   [Nebendiagnosen]: Hypertension arterialis, Diabetes mellitus Typ 2
+ 
+Epikrise:
+Herr Mustermann wurde aufgrund einer akuten Appendizitis am 01.05.2024 in unsere Klinik aufgenommen. Nach den initialen Untersuchungen und der Bestätigung der Diagnose wurde eine Appendektomie durchgeführt. Der postoperative Verlauf war komplikationslos, und der Patient konnte nach angemessener Nachbeobachtung und Wiederherstellung der Darmfunktion am 15.05.2024 in einem stabilen Zustand entlassen werden.
+ 
+Anamnese:
+Herr Mustermann stellte sich mit typischen Symptomen einer Appendizitis vor, einschließlich Bauchschmerzen im rechten Unterbauch, Übelkeit und Fieber. Er berichtete über eine Verschlimmerung der Schmerzen innerhalb der letzten 24 Stunden vor der Aufnahme. Anamnestisch sind eine arterielle Hypertonie und ein Diabetes mellitus Typ 2 bekannt, die medikamentös behandelt werden.
+ 
+Befunde:
+•  Klinische Untersuchung: Druckschmerzhaftigkeit im rechten Unterbauch, positives Blumberg-Zeichen, Fieber (38,5°C).
+•  Labor: Leukozytose (15.000/µl), CRP-Erhöhung (10 mg/dl), Blutzucker (150 mg/dl).
+•  Sonographie: Echoreiche, nicht komprimierbare Struktur im rechten Unterbauch, Hinweis auf eine entzündete Appendix.
+•  OP-Bericht: Laparoskopische Appendektomie, entzündete und geschwollene Appendix, keine Perforation.
+ 
+Therapie:
+•  Chirurgisch: Laparoskopische Appendektomie
+•  Medikamentös: Postoperative Schmerztherapie mit Metamizol und Paracetamol, Antibiotikaprophylaxe mit Cefuroxim und Metronidazol, Weiterführung der antihypertensiven und antidiabetischen Therapie.
+•  Ernährung: Postoperativ langsamer Kostaufbau, ab dem 3. postoperativen Tag normale Kost.
+ 
+Entlassungsempfehlungen:
+•  Weiterbehandlung: Regelmäßige Kontrolle der Blutzuckerwerte und Blutdruckkontrollen beim Hausarzt. Wundkontrolle in einer Woche.
+•  Medikation: Fortführung der bisherigen Medikation (Metformin 500 mg 2x täglich, Ramipril 5 mg täglich). Bei Bedarf Paracetamol 500 mg gegen Schmerzen.
+•  Aktivitäten: Schonung für die nächsten zwei Wochen, danach langsamer Aufbau der körperlichen Aktivitäten.
+•  Nachsorge: Vorstellung beim Hausarzt in einer Woche zur Kontrolle der Wundheilung und Anpassung der Medikation falls erforderlich.
+
+
+Bitte bei Rückfragen oder Komplikationen Kontakt mit unserer Klinik aufnehmen.
+Mit freundlichen Grüßen,
+ 
+Dr. Schmidt
+Chirurgische Abteilung
+Krankenhaus Musterstadt

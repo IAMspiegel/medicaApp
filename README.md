@@ -17,14 +17,14 @@ You can configure the model IDs in the `app_config.json` file. The LLM is prompt
 Ensure that the `negex` python package and German medical trigger set to this repository. Follow the steps in `negex/`.
 
 # Start the app
-In order to run the streamtlit application you must set an environment variable to the data directory.
+In order to run the streamtlit application you must set environment variables to the data directory and config file.
 ```bash
 export app_data=/your/dataDir/data
 export APP_CONFIG=/pathTo/app_config.json
 ```
+To test the application, a synthetic discharge summary is provided under 'medicaapp/example_data' and can be processed for entity extraction.
 
-Then you can start the app
+Then, start the app
 ```bash
 streamlit run streamlit_app.py --server.fileWatcherType none
 ```
-
